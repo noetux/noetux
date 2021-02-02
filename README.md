@@ -1,4 +1,6 @@
-### Hi there 👋
+# Software Developer
+
+Hi 👋, I am a software developer who is always looking to learn, improve and apply what I learn in the creation of quality software.
 
 <!--
 **noetux/noetux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
