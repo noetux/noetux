@@ -1,5 +1,3 @@
-# Software Developer
-
 Hi 👋
 
 <!--
